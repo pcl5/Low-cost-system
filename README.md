@@ -16,4 +16,4 @@ The sys_ws folder contains the source code for running on the Jetson Nano, inclu
 
 ## Usage Guide
 
-该部分提供了使用该 SLAM 系统的详细教程。包括系统组装说明、软件环境配置、系统启动和操作步骤等内容。通过本教程，您将能够快速上手并开始使用低成本 SLAM 系统进行环境建图和定位任务。
+
