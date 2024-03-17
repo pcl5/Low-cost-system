@@ -8,15 +8,11 @@ This section contains model files for the chassis base, radar mounting base, and
 
 ## MCU Code
 
-The MCU (Microcontroller Unit) code section includes firmware for the microcontroller used in the SLAM system. The firmware is responsible for sensor data acquisition, processing, and communication with other system components. It is written in C/C++ and is compatible with common microcontroller platforms.
+The MCU (Microcontroller Unit) code section includes the project of the C30D(stm32).
 
 ## sys_ws
 
 The sys_ws folder contains the source code for running on the Jetson Nano, including modules for controlling the motion of the robot and implementing SLAM functionality. The SLAM system is currently compatible with the fast-lio and lio-sam frameworks. Future updates will include compatibility with additional SLAM systems.
-
-## sys_ws
-
-T
 
 ## Usage Guide
 
