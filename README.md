@@ -22,7 +22,7 @@ This section contains model files for the chassis base, radar mounting base, and
 
 The MCU (Microcontroller Unit) code section includes the project of the C30D(stm32), for detailed documentation refer to [wheeltec](https://github.com/wheeltec/docs).
 
-## sys_ws
+## SYS_WS
 
 The sys_ws folder contains the source code for running on the Jetson Nano, including modules for controlling the motion of the robot and implementing SLAM functionality. The SLAM system is currently compatible with the fast-lio and lio-sam frameworks. Future updates will include compatibility with additional SLAM systems.
 
@@ -76,6 +76,5 @@ cmake .. && make -j
 sudo make install
 ```
 
-4. Installing LiDAR-inertial Odometry
 
 
