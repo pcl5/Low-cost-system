@@ -12,7 +12,7 @@
 
 This work is based on our paper. This repository contains the source code and hardware design for a low-cost SLAM (Simultaneous Localization and Mapping) system. The system aims to provide a cost-effective solution for mapping environments and localizing within them.
 
-**Author:** Conglin Pang, Liqing Zhou and Xianfeng Huang
+**Author:** Yu Zhang, Conglin Pang, Liqing Zhou and Xianfeng Huang
 
 ## Hardware Design
 
